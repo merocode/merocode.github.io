@@ -2,7 +2,6 @@
 layout: post
 title:  "Hello World!"
 date:   2014-06-22 15:48:59
-categories: uncategorized
 ---
 
 <pre><code>Hello World!</code></pre>
