@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Visualizing Graphs"
-date:   2014-06-24 07:52:00
+date:   2014-06-23 07:52:00
 tags: 
 - groovy
 - java
